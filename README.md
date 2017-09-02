@@ -15,7 +15,8 @@
     * [Textures](#textures)
     * [Level Design](#level-design)
     * [Custom Animations](#custom-animations)
-* [Team](#6--team)
+* [Release](#6--release)
+* [Team](#7--team)
 
 ## 1.   Introduction
 This Android VR Application was created during "Unreal Engine 4 Summer Jam 2017". This Game is built on the Unreal Engine 4 (4.16) This is completely based on C++ and Unreal Visual Scripts (Blueprints) and has a Release APK for Installation.
@@ -100,7 +101,11 @@ Just open "MyProject2.uproject" to open the project in Unreal Engine 4.
 - ### Custom Animations
     * Mixamo 
     
-## 6.   Team
+## 6.   Release
+   Due to GitHub's file upload limit , Release APK cannot be uploaded here.
+   But Here's a link for APK : [Release APK](https://drive.google.com/open?id=0B0B14ZjDlI7OTXFyTFMzaVF5TFU)
+   
+## 7.   Team
 - ### Lead Developer
     * Ankit Passi
     
