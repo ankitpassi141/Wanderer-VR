@@ -81,7 +81,8 @@ Let  us remind you again that the minimum Android OS that you need to run this p
 If you want to run this application on your android phone, please move over to the "[`Release` (https://github.com/PsychoticElites/FExBarclays/releases)" section and download the latest stable APK build for your android phone. You do not need any external libraries or application.
 
 - #### Instructions For Developers/Testers :
-If you're a developer or any user who wishes to test this application and run this android project, it's recommended to install Unreal Engine 4.16 or above and Android SDKs on your system. Remember that Android SDKs should be in your local path for you to be able to compile the project properly. You can find the source code in the "[SOURCE](https://github.com/PsychoticElites/FExBarclays/tree/master/Source)" directory.
+If you're a developer or any user who wishes to test this application and run this android project, it's recommended to install Unreal Engine 4.16 or above and Android SDKs on your system. Remember that Android SDKs should be in your local path for you to be able to compile the project properly. You can find the source code in the "[SOURCE](https://github.com/ankitpassi141/Wanderer-VR/tree/master/Source)" directory.
+Just open "MyProject2.uproject" to open the project in Unreal Engine 4.
 
 ## 5.   Technology Stack Used
 - ### Game Engine
