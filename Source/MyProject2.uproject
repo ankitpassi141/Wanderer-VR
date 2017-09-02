@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
+		},
+		{
+			"Name": "Substance",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "GearVR",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusInput",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusLibrary",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusRift",
+			"Enabled": false
+		},
+		{
+			"Name": "RunebergVRPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4dfd0c5b4c97427c860bd2cf7c207136"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
+	]
+}
