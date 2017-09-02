@@ -102,8 +102,7 @@ Just open "MyProject2.uproject" to open the project in Unreal Engine 4.
     * Mixamo 
     
 ## 6.   Release
-   Due to GitHub's file upload limit , Release APK cannot be uploaded here.
-   But Here's a link for APK : [Release APK](https://drive.google.com/open?id=0B0B14ZjDlI7OTXFyTFMzaVF5TFU)
+Here's a link for APK : [Release APK](https://github.com/ankitpassi141/Wanderer-VR/releases/download/v1.0/MadTitans_WandererVR.apk)
    
 ## 7.   Team
 - ### Lead Developer
